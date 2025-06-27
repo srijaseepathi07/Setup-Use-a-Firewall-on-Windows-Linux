@@ -1,0 +1,3 @@
+# commands used
+1.dism /online /Enable-Feature /FeatureName:TelnetClient
+2.telnet localhost 23
